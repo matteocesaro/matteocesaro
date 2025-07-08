@@ -7,4 +7,4 @@
 ## 🚀 Progetti pubblici
 - 🐦 [Birds-watching](https://github.com/matteocesaro/Birds-watching): classificazione immagini con CNN e transfer learning  
 - 📚 [IBDM-reviews](https://github.com/matteocesaro/IBDM-reviews): NLP su recensioni testuali  
-- 🧪 [scd-ccp](https://github.com/matteocesaro/scd-ccp): analisi esplorativa e clustering
+- 🧪 [scd-ccp](https://github.com/matteocesaro/scd-ccp): Data semantics and LLM creation
