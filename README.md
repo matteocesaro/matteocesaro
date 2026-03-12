@@ -1,7 +1,9 @@
 # Ciao, sono Matteo Cesaro 👋
 
 💼 Data Scientist  
+
 📊 Esperienza in progetti end-to-end di machine learning, Data Science e Generative AI 
+
 🧰 Tecnologie: Python, SQL, AWS
 
 ## 🚀 Progetti pubblici
