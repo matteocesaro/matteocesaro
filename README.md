@@ -1,8 +1,8 @@
 # Ciao, sono Matteo Cesaro 👋
 
-💼 Data Scientist/Data Engineer presso azienda di consulenza  
-📊 Esperienza in progetti end-to-end di machine learning, data engineering e business intelligence  
-🧰 Tecnologie: Python, SQL, Qlik Sense, Power BI
+💼 Data Scientist  
+📊 Esperienza in progetti end-to-end di machine learning, Data Science e Generative AI 
+🧰 Tecnologie: Python, SQL, AWS
 
 ## 🚀 Progetti pubblici
 - 🐦 [Birds-watching](https://github.com/matteocesaro/Birds-watching): classificazione immagini con CNN e transfer learning  
