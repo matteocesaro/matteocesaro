@@ -1,12 +1,18 @@
-# Ciao, sono Matteo Cesaro 👋
+# Hello, I'm Matteo Cesaro 👋
 
-💼 Data Scientist  
+💼 Senior Data Scientist  
 
-📊 Esperienza in progetti end-to-end di machine learning, Data Science e Generative AI 
+🧰 Tech: Python, SQL, AWS, SageMaker, Docker, CI/CD
 
-🧰 Tecnologie: Python, SQL, AWS
+## 🚀 Public Projects
+- ☁️ [AWS SageMaker Deployment](https://github.com/matteocesaro/aws-sagemaker): end-to-end ML workflow with SageMaker, training models in Docker containers, deploying endpoints, and performing real-time inference.  
+- ⚙️ [CI/CD with AWS CodePipeline]([https://github.com/matteocesaro/<repo-name>](https://github.com/matteocesaro/mlproject)): automated deployment pipeline using AWS CodePipeline, integrating Elastic Beanstalk for production-ready app deployment.
+- 🐦 [Birds-watching](https://github.com/matteocesaro/Birds-watching): image classification using CNN and transfer learning.  
+- 📚 [IBDM-reviews](https://github.com/matteocesaro/IBDM-reviews): NLP project analyzing textual reviews.  
+- 🧪 [scd-ccp](https://github.com/matteocesaro/scd-ccp): data semantics and LLM creation.  
 
-## 🚀 Progetti pubblici
-- 🐦 [Birds-watching](https://github.com/matteocesaro/Birds-watching): classificazione immagini con CNN e transfer learning  
-- 📚 [IBDM-reviews](https://github.com/matteocesaro/IBDM-reviews): NLP su recensioni testuali  
-- 🧪 [scd-ccp](https://github.com/matteocesaro/scd-ccp): Data semantics and LLM creation
+
+## 📫 Contact
+
+- LinkedIn: [Matteo Cesaro]([https://www.linkedin.com/in/matteocesaro](https://www.linkedin.com/in/matteo-cesaro-8b5440137/))  
+- Email: matteo.t.cesaro@gmail.com
